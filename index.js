@@ -21,9 +21,7 @@ function add2(n) {
 }
 
 function funkyFunction(string) {
- function funky(string){
-   return "FUNKY!"
- }
+  
 }
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
