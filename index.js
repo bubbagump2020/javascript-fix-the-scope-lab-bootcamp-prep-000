@@ -20,8 +20,8 @@ function add2(n) {
   return n + two
 }
 
-function funkyFunction() {
- function funky(){
+function funkyFunction(string) {
+ function funky(string){
    return "FUNKY!"
  }
 }
