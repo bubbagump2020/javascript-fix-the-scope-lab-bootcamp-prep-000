@@ -1,8 +1,8 @@
 var animal = 'dog'
 
-function myAnimal(animal) {
-  if (animal === `dog`){
-    return animal
+function myAnimal() {
+  var animal = 'dog'
+  return animal
   }
   
   
